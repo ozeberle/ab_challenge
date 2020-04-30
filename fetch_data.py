@@ -16,10 +16,3 @@ try:
 
 except Exception as e:
     print(e)
-
-
-
-#aws_session_token=aws_session_token,
-#                          aws_access_key_id=aws_access_key_id,
-#                          aws_secret_access_key=aws_secret_access_key,
-#                         region_name=region
